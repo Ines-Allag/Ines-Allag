@@ -69,7 +69,6 @@ Cybersecurity-focused engineering student, currently completing a L3 in Computer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ines-Allag&show_icons=true&hide_border=true&bg_color=07040f&title_color=c084fc&icon_color=ec4899&text_color=c4b5fd" width="48%" alt="GitHub stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ines-Allag&hide_border=true&background=07040f&stroke=07040f&ring=a855f7&fire=ec4899&currStreakLabel=c084fc&currStreakNum=f5f3ff&sideLabels=c4b5fd&sideNums=f5f3ff&dates=7c3aed" width="48%" alt="GitHub streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ines-Allag&hide_border=true&background=07040f&stroke=07040f&ring=a855f7&fire=ec4899&currStreakLabel=c084fc&currStreakNum=f5f3ff&sideLabels=c4b5fd&sideNums=f5f3ff&dates=7c3aed" width="60%" alt="GitHub streak">
 
 </div>
