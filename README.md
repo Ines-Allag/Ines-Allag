@@ -64,11 +64,3 @@ Cybersecurity-focused engineering student, currently completing a L3 in Computer
 | **SGF Simulator** | Systems | C/C++ · Qt Creator — file system simulator with inode management and low-level operations |
 
 </div>
-
-## `05` Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ines-Allag&hide_border=true&background=07040f&stroke=07040f&ring=a855f7&fire=ec4899&currStreakLabel=c084fc&currStreakNum=f5f3ff&sideLabels=c4b5fd&sideNums=f5f3ff&dates=7c3aed" width="60%" alt="GitHub streak">
-
-</div>
