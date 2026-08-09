@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ines-Allag/Ines-Allag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# INÈS ALLAG
 
-Here are some ideas to get you started:
+`Computer Science — L3 @ CY Tech`
+`Focus: Network Security · Web Security · Systems`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/ines-allag-aa3260412/)
+
+</div>
+
+<br>
+
+## About
+
+Computer science student building toward a cybersecurity apprenticeship, with a background in Python, C/C++, and Linux systems. Currently developing a personal security lab and a portfolio of applied projects.
+
+## Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-000000?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-000000?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=flat-square&logo=docker&logoColor=white)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-000000?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/NMAP-000000?style=flat-square)
+![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+## Current focus
+
+| | |
+|---|---|
+| **Building** | Network Security Toolkit — Python network scanner with automated reporting |
+| **Learning** | Network security fundamentals, TryHackMe |
